@@ -29,8 +29,9 @@ Url Api: https://www.easports.com/fifa/ultimate-team/api/fut/item?page=1
 * 5. Elimnar la BD llamada: db.sqlite3
 
 * 6. Ejecución de los siguiente comandos:
-    > python manage.py makemigrations snippets 
-    >  python manage.py migrate 
+    > python manage.py makemigrations snippets. 
+    > 
+    >  python manage.py migrate. 
     
 * 7. Creación de usuario para BD
     > python manage.py createsuperuser 
